@@ -1,0 +1,26 @@
+baseURL = "https://railwayfan.ro/"
+languageCode = "en-gb"
+title = "RailwayFan"
+theme = "ghostwriter"
+
+[params]
+  description = "Railway modelling and rail transport"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "rail-transport"
+    name = "Rail Transport"
+    url = "/rail-transport/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "railway-modelling"
+    name = "Railway Modelling"
+    url = "/railway-modelling/"
+    weight = 3
