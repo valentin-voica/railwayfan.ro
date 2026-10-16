@@ -1,7 +1,7 @@
 baseURL = "https://railwayfan.ro/"
 languageCode = "en-gb"
 title = "RailwayFan"
-theme = "ghostwriter"
+theme = "hugo-theme-relearn"
 
 [params]
   description = "Railway modelling and rail transport"
