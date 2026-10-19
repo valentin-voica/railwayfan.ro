@@ -1,6 +1,7 @@
 ---
 title: "FREMO Module"
 description: "FREMO module notes"
+weight: 1
 ---
 
 Theme: "Dragosa" hcv

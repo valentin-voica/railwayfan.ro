@@ -1,4 +1,8 @@
-# FREMO Modules Legs - Notes from Henk
+---
+title: "Legs"
+description: "FREMO module leg construction notes from Henk"
+weight: 2
+---
 
 ## Overview
 October 2026 correspondence regarding his Fremo modules leg construction.
@@ -29,8 +33,6 @@ October 2026 correspondence regarding his Fremo modules leg construction.
 
 ## Visual References from Henk
 
-*(Images referenced from your uploaded files)*
-
 ![Module Frame Assembly](images/henk-module-legs-detail.jpg)
 > *Fig 1: Cross members being assembled with clamps. Wooden dowel cross pieces, not metal bars.*
 
@@ -39,6 +41,3 @@ October 2026 correspondence regarding his Fremo modules leg construction.
 
 ![Sketch with Measurements](images/henk-module-sketch.jpg)
 > *Fig 3: Hand-drawn technical sketch showing module dimensions (800mm, 1220mm heights noted) and leg configuration with cross member details.*
-
----
-
