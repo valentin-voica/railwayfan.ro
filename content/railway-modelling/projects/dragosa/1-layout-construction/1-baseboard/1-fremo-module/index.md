@@ -7,9 +7,7 @@ Theme: "Dragosa" hcv
 
 hcv = "haltă deschisă pentru traficul de călători și marfă" - halt open to passenger and freight traffic.
 
-# Fremo Module
-
-Dimensions: 1200 mm x 400 mm
+Module's dimensions: 1200 mm x 400 mm
 
 ## Materials Checklist
 
