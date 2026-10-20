@@ -8,9 +8,12 @@ weight: 2
 
 ## Location & Structure
 
-- **Site:** Km 9+700, near Dragosa Halt towards Moldovita, Romania (![photo](images/IMG_0196.webp) from 1 May 2009, (c) Dr2005)
+- **Site:** Near "Dragosa" halt towards Moldovita, Romania
 - **Crossing:** Dragosa River
 - **Layout:** Railway bridge + road bridge running parallel
+
+![Bridge over Dragosa River](images/IMG_0196.webp)
+(c) Dr2005, 1 May 2009
 
 ## Railway Bridge Details
 
