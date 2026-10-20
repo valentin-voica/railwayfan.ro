@@ -8,7 +8,7 @@ weight: 2
 
 ## Location & Structure
 
-- **Site:** near Dragosa Halt towards Valea Stanii Halt, Romania (reference photo IMG_0196 from 1 May 2009, (c) Dr2005)
+- **Site:** Km 9+700, near Dragosa Halt towards Moldovita, Romania (![photo](images/IMG_0196.webp) from 1 May 2009, (c) Dr2005)
 - **Crossing:** Dragosa River
 - **Layout:** Railway bridge + road bridge running parallel
 
