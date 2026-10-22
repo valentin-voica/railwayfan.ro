@@ -2,5 +2,6 @@ baseURL = "https://railwayfan.ro/"
 locale = "en-gb"
 title = "RailwayFan"
 theme = "hugo-theme-relearn"
+enableGitInfo = true
 
 [menu]

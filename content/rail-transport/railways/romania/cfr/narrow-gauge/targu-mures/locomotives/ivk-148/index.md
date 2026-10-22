@@ -45,3 +45,4 @@ Absorbed into the Romanian State Railways (CFR), it uniquely retained its origin
 
 The running number 148 was reused elsewhere in the Saxon IV K fleet after this locomotive left Germany, so an IV K carrying "148" plates in a German collection today is not the engine described above. The Transylvanian 148 (Hartmann 3211) was scrapped in Romania and no part of it survives.
 
+

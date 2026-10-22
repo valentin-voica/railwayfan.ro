@@ -1,0 +1,4 @@
+{{ .Params.headingPost | safeHTML }}
+{{ if and (eq .Kind "page") (not .Lastmod.IsZero) -}}
+<div class="page-lastmod">Last updated: {{ time.Format "2 January 2006" .Lastmod }}</div>
+{{- end }}
