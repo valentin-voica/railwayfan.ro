@@ -41,6 +41,13 @@ This site is hosted on GitHub Pages. As part of delivering content, GitHub may
 process standard technical request data (including IP addresses) under its own
 [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies).
 
+## Visitor statistics
+
+This site uses GoatCounter to count page views. It does not use cookies, stores
+no personal data in your browser, and creates no profile of you.
+Aggregate statistics are visible only to the site owner.
+Public counter badge is not enabled
+
 ## Contact
 
 Questions about this site: railwayfan.vali@pm.me
