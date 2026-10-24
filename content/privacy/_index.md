@@ -7,10 +7,11 @@ aliases:
   - "/privacy-policy/"
 ---
 
-## No tracking on this site
+## No cookies, no behavioural tracking
 
-This website sets no cookies and performs no behavioural tracking. No analytics
-software is installed, and visitor activity is not recorded by this site itself.
+This website sets no cookies and performs no behavioural tracking. Visitor
+statistics are collected in aggregate only, and no lasting profile of
+individual readers is built or stored.
 
 ## What is stored in your browser
 
@@ -20,6 +21,13 @@ removed when you clear browser storage.
 
 **Search** – The search index is downloaded with the site. Queries are matched
 entirely in your browser; nothing you type is transmitted to any server.
+
+## Visitor statistics
+
+This site uses [GoatCounter](https://www.goatcounter.com/) to count page views.
+It sets no cookies and stores nothing in your browser, and no lasting profile of
+you is created. Statistics are anonymous aggregates, visible only to the site
+owner. No public counter is displayed on the site.
 
 ## Third-party resources
 
@@ -31,6 +39,7 @@ fonts and icons correctly:
 | Google Fonts | Typography | May log your IP address per Google's privacy policy |
 | Font Awesome | Icons | May log your IP address per their privacy policy |
 | Lunr.js | Search library | CDN may log request data |
+| GoatCounter | Visitor counting | Anonymous page views, referrer, and general browser/region data; no cookies |
 
 These providers operate under their own privacy terms. They do not share data
 with this site, and this site does not place cookies through these integrations.
@@ -40,13 +49,6 @@ with this site, and this site does not place cookies through these integrations.
 This site is hosted on GitHub Pages. As part of delivering content, GitHub may
 process standard technical request data (including IP addresses) under its own
 [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies).
-
-## Visitor statistics
-
-This site uses GoatCounter to count page views. It does not use cookies, stores
-no personal data in your browser, and creates no profile of you.
-Aggregate statistics are visible only to the site owner.
-Public counter badge is not enabled
 
 ## Contact
 
