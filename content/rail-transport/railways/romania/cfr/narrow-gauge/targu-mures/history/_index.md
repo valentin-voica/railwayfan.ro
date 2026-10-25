@@ -56,6 +56,7 @@ On the Niraj valley line, the railway became part of daily life: workers and stu
 
 **Print Reference:**
 * **Organ, John.** (2008). *Romania & Bulgaria Narrow Gauge*. (Vic Mitchell, Series Ed.). Midhurst, West Sussex: Middleton Press. ISBN 978-1-906008-23-9. (Referencing pages 13–18, "Târgu Mureș" section).
+* **Monitorul Oficial al României**. Partea 1, 1942-08-04, nr. 179, (page 6561).
 
 **Digital Sources & Community Archives:**
 * **Asociația Mocănița Transilvaniei:** Historical background and preservation initiatives on the official [Mocănița Transilvaniei project site](https://www.mocanitatransilvaniei.ro/ "Mocanita Transilvaniei"), including the [history of the Târgu Mureș–Lechința line](https://www.mocanitatransilvaniei.ro/istorie/ "Istorie").
