@@ -28,33 +28,31 @@ After the First World War and the union of Transylvania with Romania, the narrow
 
 Under the **Second Vienna Award of 30 August 1940**, the network was severed in two: the Band–Miheșu de Câmpie section remained in Romania, while the remainder fell under Hungarian administration. With Târgu Mureș now needing a direct connection toward Budapest, approximately **17 kilometres** of new narrow-gauge line were laid between **Iuda and Lechința** (a CFR regional document gives the length as 16.7 km), opening on **15 December 1941**. This extension made the system one of the longest narrow-gauge networks in Transylvania: approximately 191 kilometres before 1941, rising to roughly 206 kilometres after the Iuda–Lechința connection, to which could be added forest railways of uncertain total extent connected via the stations at Sovata and Câmpu Cetății.
 
-In **1942** the Hungarian and Romanian state railways (MÁV and CFR) bought the shares and the Mureș-Turda Local Interest Railways Company was abolished, its Hungarian portion absorbed by MÁV and its Romanian section by CFR. *(This account appears in detailed Romanian-language histories but lacks independent archival confirmation in readily accessible sources.)*
+In **1942** the Hungarian and Romanian state railways (MÁV and CFR) bought the shares and the Mureș-Turda Local Interest Railways Company was abolished, its Hungarian portion absorbed by MÁV and its Romanian section by CFR.
 
 In **September 1944**, retreating German troops blew up bridges, viaducts, switches and unevacuated locomotives and wagons, and mined the level crossings. From that autumn the narrow-gauge lines entered a long process of reconstruction and then modernisation, affecting the permanent way, the traction system and the traffic safety installations. After the war the railway was repaired and passed into CFR ownership.
 
 #### Decline and Closure
 
-The network enjoyed its heyday until the 1970s. The **Sovata–Praid** segment was abolished on **25 March 1975**; the rails were lifted and much of the alignment was subsequently built over.
+The network enjoyed its heyday until the 1970s. The **Sovata–Praid** segment was closed on **25 March 1975**; the rails were lifted and much of the alignment was subsequently built over.
 
 The end came in **1997**. On **1 April** CFR halted services on all remaining narrow-gauge lines, and the railway was placed into conservation. From **1999**, locomotives and rolling stock were scrapped or sold for scrap.
 
 #### Preservation Today
 
-The Sovata–Câmpu Cetății section was rebuilt in **2010–11** and tourist operation began in **2011**. That same year saw rails and sleepers lifted by a private firm between Târgu Mureș–Râciu and Teaca–Lechința, leaving two operational fragments.
+The Sovata–Câmpu Cetății section was rebuilt in **2010–11** and tourist operation began in **2011**. That same year saw rails and sleepers lifted by a private firm between Târgu Mureș–Râciu and Teaca–Lechința.
 
-Today two fragments survive. On the eastern network, a section between **Sovata (Szováta)** and **Câmpu Cetății (Vármező)** carries regular steam-hauled tourist services — commonly reported as **14 kilometres** in tourism sources, though the Romanian Wikipedia entry gives 11 km. On the old Transylvanian Plain line, a single **35-kilometre** section remains between **Râciu (Mureș County)** and **Teaca (Bistrița-Năsăud County)**, administered since **2 April 2018** by **Asociația Mocănița Transilvaniei**, whose volunteers continue to preserve the track and rolling stock. Together these ensure that this historic 760 mm system remains alive for historians and railway enthusiasts alike.
+Today two segments survive. On the eastern network, a section between **Sovata (Szováta)** and **Câmpu Cetății (Vármező)** carries regular steam-hauled tourist services — commonly reported as **14 kilometres** in tourism sources, though the Romanian Wikipedia entry gives 11 km. On the old Transylvanian Plain line, a single **35-kilometre** section remains between **Râciu (Mureș County)** and **Teaca (Bistrița-Năsăud County)**, administered since **2 April 2018** by **Asociația Mocănița Transilvaniei**, whose volunteers continue to preserve the track and rolling stock. Together these ensure that this historic 760 mm system remains alive for historians and railway enthusiasts alike.
 
 #### Route and Operation Notes
 
 Leaving Târgu Mureș at approximately 306 metres altitude, the line ran north of the Mureș river, crossed the standard-gauge Târgu Mureș–Luduș railway at grade, and entered the Transylvanian Plain. From Band it climbed north-west up the Comlod valley to Ocnița, before descending through orchards and vineyards to the terminus at Lechința. Principal goods carried were sugar beet, timber and fruit.
 
-On the Niraj valley line, the railway became part of daily life: workers and students commuted to the county seat, villagers brought their produce to market, and townspeople rode out to Sovata for holidays and excursions. Timber, sugar beet and salt from the Praid mine all moved by rail.
-
-*(Technical details such as rail patterns, specific speeds, axle loads and elevation figures derive from community sources and remain to be independently verified from archival documentation. Local nicknames for the trains also lack independent documentary confirmation.)*
+On the Niraj valley line, the railway became part of daily life: workers and students commuted to Târgu Mureș, villagers brought their produce to market, and townspeople rode out to Sovata for holidays and excursions. Timber, sugar beet and salt from the Praid mine all moved by rail.
 
 ***
 
-#### Bibliography & Sources
+##### Bibliography & Sources
 
 **Print Reference:**
 * **Organ, John.** (2008). *Romania & Bulgaria Narrow Gauge*. (Vic Mitchell, Series Ed.). Midhurst, West Sussex: Middleton Press. ISBN 978-1-906008-23-9. (Referencing pages 13–18, "Târgu Mureș" section).
@@ -71,4 +69,4 @@ On the Niraj valley line, the railway became part of daily life: workers and stu
 * Published figures for total network length vary; the commonly cited components (~82 km + ~81 km + 28 km) total approximately 191 km, while one account gives 186 km for the pre-1941 network.
 * The Sovata–Câmpu Cetății tourist section is variously reported as 11–14 km.
 * The 1942 MÁV share purchase and the September 1944 demolitions appear in detailed Romanian-language histories but lack independent archival confirmation in readily accessible sources.
-* Technical specifications (rail patterns, speeds, axle loads) and anecdotal details (nicknames, exact elevations) derive from community sources and require verification against primary archival documentation.
+
