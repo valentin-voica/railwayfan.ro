@@ -50,6 +50,14 @@ Leaving Târgu Mureș at approximately 306 metres altitude, the line ran north o
 
 On the Niraj valley line, the railway became part of daily life: workers and students commuted to Târgu Mureș, villagers brought their produce to market, and townspeople rode out to Sovata for holidays and excursions. Timber, sugar beet and salt from the Praid mine all moved by rail.
 
+![](images/764.159-TgM-13.10.1993.jpg)
+
+*13 October 1993, "Uzinele 23 August" 764.159*
+
+![](images/Harta-CFR-1938.jpg)
+
+*Romanian State Railways map in 1938* 
+
 ***
 
 ##### Bibliography & Sources
