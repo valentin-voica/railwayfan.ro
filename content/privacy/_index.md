@@ -52,4 +52,5 @@ process standard technical request data (including IP addresses) under its own
 
 ## Contact
 
-Questions about this site: [email](info.unscrew591@passinbox.com)
+Questions about this site: [send me a message](mailto:info.unscrew591@passinbox.com)
+
