@@ -6,7 +6,7 @@ weight: 1
 
 ### The Târgu Mureș Narrow Gauge Railway System
 
-The narrow-gauge railway system centred on Târgu Mureș (Hungarian: Marosvásárhely), known to enthusiasts as the **"Mocănița of the Transylvanian Plain and Niraj Valley,"** represents a monumental chapter in Romania's rail transport heritage. It was built to move salt from the mines at Praid (Parajd), timber from the forests of the Niraj valley, and grain and livestock from the plains of Band, Miheșu de Câmpie and Teaca — goods wanted not only within Transylvania but largely destined for Budapest and Vienna.
+The narrow-gauge railway system centred on Târgu Mureș (Hungarian: Marosvásárhely), known to enthusiasts as the **"Mocănița of the Transylvanian Plain and Niraj Valley,"** represents a monumental chapter in Romania's rail transport heritage. It was built to move salt from the mines at Praid (Parajd), timber from the forests of the Niraj valley, and grain and livestock from the plains of Band, Miheșu de Câmpie and Teaca — goods wanted not only within Transylvania, but much of which was destined for Budapest and Vienna.
 
 #### Origins and Construction
 
@@ -16,19 +16,19 @@ The concessionaire was the **Societatea Căilor Ferate de Interes Local Mureș-T
 
 #### Opening, 1915
 
-Work resumed in early 1914, only to be delayed again by the outbreak of war. Technical trials were conducted on **15–17 January 1915** by a senior commission of the Ministry of Communications from Budapest. Following satisfactory results, the narrow-gauge railways of the Mureș basin were formally placed in regular service on **31 January 1915**, connecting Târgu Mureș with the Niraj valley, Praid, and the Transylvanian Plain settlements simultaneously.
+Work resumed in early 1914, only to be delayed again by the outbreak of war. Technical trials were conducted on **15–17 January 1915** by a senior commission of the Ministry of Communications from Budapest. Following satisfactory results, the narrow-gauge railways of the Mureș basin were formally placed in regular service on **31 January 1915**, connecting Târgu Mureș with the Niraj valley, Praid and the Transylvanian Plain settlements. Along their routes, 43 passenger buildings were reported to have been constructed: mostly small plastered-brick stations with tiled roofs, containing a traffic office, station-master’s office, waiting room and a one- to three-room staff dwelling.
 
 Between **1915 and 1919** the railway's traffic was overwhelmingly military — troops, food and livestock in support of the Austro-Hungarian army engaged in the First World War.
 
 #### The Interwar Years
 
-After the First World War and the union of Transylvania with Romania, the narrow-gauge lines remained the property of the Mureș-Turda company from 1919 but passed into the operation of **CFR**, the Romanian state railway. By a convention of 4 March 1926, published in the Official Monitor no. 72 of 28 March 1926, the Romanian State sought to purchase the company's entire shareholding, which would in practice have made it the sole authority over the narrow-gauge railways of the Mureș basin. No readily accessible published source documents payment to the shareholders.
+After the First World War and the union of Transylvania with Romania, the narrow-gauge lines remained the property of the Mureș-Turda company from 1919 but passed into the operation of CFR (Căile Ferate Române), the Romanian state railway. By a convention of 4 March 1926, published in the Official Monitor no. 72 of 28 March 1926, the Romanian State sought to purchase the company's entire shareholding, which would in practice have made it the sole authority over the narrow-gauge railways of the Mureș basin. No readily accessible published source documents payment to the shareholders.
 
 #### The Second World War
 
-Under the **Second Vienna Award of 30 August 1940**, the network was severed in two: the Band–Miheșu de Câmpie section remained in Romania, while the remainder fell under Hungarian administration. With Târgu Mureș now needing a direct connection toward Budapest, approximately **17 kilometres** of new narrow-gauge line were laid between **Iuda and Lechința** (a CFR regional document gives the length as 16.7 km), opening on **15 December 1941**. This extension made the system one of the longest narrow-gauge networks in Transylvania: approximately 191 kilometres before 1941, rising to roughly 206 kilometres after the Iuda–Lechința connection, to which could be added forest railways of uncertain total extent connected via the stations at Sovata and Câmpu Cetății.
+Under the **Second Vienna Award of 30 August 1940**, the network was severed in two: the Band–Miheșu de Câmpie section remained in Romania, while the remainder fell under Hungarian administration. With Târgu Mureș now needing a direct connection toward Budapest, approximately **17 kilometres** of new narrow-gauge fline were laid between **Iuda and Lechința** (a CFR regional document gives the length as 16.7 km), opening on **15 December 1941**. This extension made the system one of the longest narrow-gauge networks in Transylvania: approximately 191 kilometres before 1941, rising to roughly 206 kilometres after the Iuda–Lechința connection, to which could be added forest railways of uncertain total extent connected via the stations at Sovata and Câmpu Cetății.
 
-In **1942** the Hungarian and Romanian state railways (MÁV and CFR) bought the shares and the Mureș-Turda Local Interest Railways Company was abolished, its Hungarian portion absorbed by MÁV and its Romanian section by CFR.
+In **1942**, according to detailed Romanian-language histories, the Hungarian and Romanian state railways (MÁV and CFR) acquired the shares and the Mureș-Turda Local Interest Railways Company was dissolved, its Hungarian portion absorbed by MÁV and its Romanian section by CFR.
 
 In **September 1944**, retreating German troops blew up bridges, viaducts, switches and unevacuated locomotives and wagons, and mined the level crossings. From that autumn the narrow-gauge lines entered a long process of reconstruction and then modernisation, affecting the permanent way, the traction system and the traffic safety installations. After the war the railway was repaired and passed into CFR ownership.
 
@@ -36,7 +36,9 @@ In **September 1944**, retreating German troops blew up bridges, viaducts, switc
 
 The network enjoyed its heyday until the 1970s. The **Sovata–Praid** segment was closed on **25 March 1975**; the rails were lifted and much of the alignment was subsequently built over.
 
-The end came in **1997**. On **1 April** CFR halted services on all remaining narrow-gauge lines, and the railway was placed into conservation. From **1999**, locomotives and rolling stock were scrapped or sold for scrap.
+The Band–Miheșu de Câmpie line still carried passengers in 1996 and was reported to have closed in early 1998.
+
+On **1 April 1997**, CFR halted services on the principal remaining narrow-gauge lines; the Band–Miheșu de Câmpie branch was reported to have continued until early 1998. From **1999**, locomotives and rolling stock were scrapped or sold for scrap.
 
 #### Preservation Today
 
@@ -50,11 +52,11 @@ Leaving Târgu Mureș at approximately 306 metres altitude, the line ran north o
 
 On the Niraj valley line, the railway became part of daily life: workers and students commuted to Târgu Mureș, villagers brought their produce to market, and townspeople rode out to Sovata for holidays and excursions. Timber, sugar beet and salt from the Praid mine all moved by rail.
 
-![](images/764.159-TgM-13.10.1993.jpg)
+![Narrow-gauge steam locomotive 764.159 of “Uzinele 23 August”, Târgu Mureș, 13 October 1993](images/764.159-TgM-13.10.1993.jpg)
 
 *13 October 1993, "Uzinele 23 August" 764.159*
 
-![](images/Harta-CFR-1938.jpg)
+![1938 Romanian State Railways map](images/Harta-CFR-1938.jpg)
 
 *Romanian State Railways map in 1938* 
 
@@ -64,10 +66,10 @@ On the Niraj valley line, the railway became part of daily life: workers and stu
 
 **Print Reference:**
 * **Organ, John.** (2008). *Romania & Bulgaria Narrow Gauge*. (Vic Mitchell, Series Ed.). Midhurst, West Sussex: Middleton Press. ISBN 978-1-906008-23-9. (Referencing pages 13–18, "Târgu Mureș" section).
-* **Monitorul Oficial al României**. Partea 1, 1942-08-04, nr. 179, (page 6561).
+* _**Monitorul Oficial al României**_, Partea I, no. 179, 4 August 1942, p. 6561.
 
 **Digital Sources & Community Archives:**
-* **Asociația Mocănița Transilvaniei:** Historical background and preservation initiatives on the official [Mocănița Transilvaniei project site](https://www.mocanitatransilvaniei.ro/ "Mocanita Transilvaniei"), including the [history of the Târgu Mureș–Lechința line](https://www.mocanitatransilvaniei.ro/istorie/ "Istorie").
+* **Asociația Mocănița Transilvaniei:** Historical background and preservation initiatives on the official [Mocănița Transilvaniei project site](https://www.mocanitatransilvaniei.ro/ "Mocanita Transilvaniei"), including the [history of the Târgu Mureș–Lechința line](https://www.mocanitatransilvaniei.ro/istorie/ "Istorie") - Radu Bellu – „Monografia căilor ferate înguste din Podişul Transilvan”, Sandor Virag, narrow gauge railway enthusiast.
 * **Mini Niraj:** "Calea ferată de pe Valea Nirajului: istoric," [mininiraj.ro](https://mininiraj.ro/ro/calea-ferata-de-pe-valea-nirajului-istoric "Calea ferată de pe Valea Nirajului").
 * **Mocănița Sovata:** Route and locomotive history, [mocanitasovata.ro](https://mocanitasovata.ro "Mocănița Sovata").
 * **Wikipedia (Hungarian):** ["Marosvásárhely–Parajd-vasútvonal"](https://hu.wikipedia.org/wiki/Marosv%C3%A1s%C3%A1rhely%E2%80%93Parajd-vas%C3%BAtvonal "Marosvásárhely–Parajd-vasútvonal").
