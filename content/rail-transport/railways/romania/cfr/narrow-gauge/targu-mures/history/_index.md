@@ -52,9 +52,9 @@ Leaving Târgu Mureș at approximately 306 metres altitude, the line ran north o
 
 On the Niraj valley line, the railway became part of daily life: workers and students commuted to Târgu Mureș, villagers brought their produce to market, and townspeople rode out to Sovata for holidays and excursions. Timber, sugar beet and salt from the Praid mine all moved by rail.
 
-![Narrow-gauge steam locomotive 764.159 of “Uzinele 23 August”, Târgu Mureș, 13 October 1993](images/764.159-TgM-13.10.1993.jpg)
+![Narrow-gauge steam locomotive 764.159 of “Uzinele 23 August” climbing the Comlod bank, 13 October 1993](images/764.159-TgM-13.10.1993.jpg)
 
-*13 October 1993, "Uzinele 23 August" 764.159*
+*13 October 1993, "Uzinele 23 August" 764.159 climbing the Comlod bank*
 
 ![1938 Romanian State Railways map](images/Harta-CFR-1938.jpg)
 
