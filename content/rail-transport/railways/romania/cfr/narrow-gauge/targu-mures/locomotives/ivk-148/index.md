@@ -1,5 +1,5 @@
 ---
-title: "Saxon IV K No. 148"
+title: "IVK-148"
 description: "Saxon IV K No. 148 (Hartmann 3211/1908) CFR IVK-148"
 weight: 4
 ---
