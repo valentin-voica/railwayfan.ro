@@ -56,3 +56,6 @@ All these locomotives were built in 1914 at Budapest works.
 | Fleimstalbahn | German name for the Val di Fiemme Railway, a 760 mm Austro-Hungarian military railway from Auer (Ora) to Predazzo in the Dolomites; later an Italian 1,000 mm electric railway, closed in 1963. |
 | PDI Ljubija | industrial railway serving the Ljubija iron-ore mines near Prijedor, Bosnia and Herzegovina; the abbreviation’s exact expansion requires confirmation from the source record. |
 
+#### Bibliography
+
+[Lokstatistik -  Josef Pospichal; Marostordai hev](https://www.pospichal.net/lokstatistik/53812-marostordai%20hev.htm)
