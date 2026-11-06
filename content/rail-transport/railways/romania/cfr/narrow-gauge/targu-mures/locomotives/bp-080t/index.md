@@ -1,61 +1,89 @@
 ---
 title: "MÁV 490"
-description: "Budapest 0-8-0T built in 1914."
+description: "Budapest-built 760 mm 0-8-0T locomotives of MÁV class 490, works numbers 3153–3164 of 1914."
 weight: 1
 ---
 
 ## Historical Overview
 
+Marostordai HÉV (*Maros-Torda Helyi Érdekű Vasút*; English: Maros-Torda Local Interest Railway) was a 760 mm narrow-gauge network centred on Târgu Mureș in Transylvania. Its first sections opened in 1915 and it was later operated by MÁV and, after the transfer of Transylvania to Romania, by CFR.
 
+These twelve Budapest-built 760 mm 0-8-0T locomotives were procured by MÁV for its narrow-gauge network. Although they are listed in Pospichal’s Marostordai HÉV survey, their recorded service was largely elsewhere: on Austro-Hungarian military railways in Bosnia, Serbia, Transylvania and the Carpathians, as well as on the Steinbeisbahn, the Fleimstalbahn, Romanian CFR lines and other narrow-gauge systems. These locomotives are part of the wider 142-unit MÁV type 70 / class 490 programme built between 1905 and 1950.
+
+The type was originally classified XXIc and redesignated MÁV class 490 after 1911.
 
 ## Technical Data
 
-### General
+For the 1914 batch, these are the general characteristics for the type 70 family (later class 490), not necessarily as exact specifications of every individual locomotive.
+
+- **Wheel arrangement:** 0-8-0T, with Klien-Lindner hollow axles on the first and fourth coupled axles.  
+- **Gauge:** 760 mm.  
+- **Driving-wheel diameter:** 750 mm.  
+- **Rigid wheelbase:** 1,150 mm; minimum curve radius: 30 m.  
+- **Boiler pressure:** 14 bar.  
+- **Grate area:** 1.04 m².  
+- **Heating surface:** 48.14 m².  
+- **Water capacity:** 2 m³.  
+- **Power:** about 120 hp / 88.3 kW when wood-fired; the later coal-fired variant developed up to 150 hp / 110 kW.  
+- **Speed:** 30 km/h for the coal-fired variant.  
+- **Builder:** MÁV Gépgyár (MÁV Machine Factory), Budapest; later MÁVAG.  
+- **Works numbers:** 3153–3164 of 1914  
+- **MÁV class:** 490  
+- **Original MÁV numbers:** 490.020–490.031  
 
 ## Operational Timeline
 
-All these locomotives were built in 1914 at Budapest works.
-
-| Works number (w/n) | MÁV-No. | WWI whereabouts | Post WWI whereabouts | Later whereabouts | Scrapped |
+| Works number (w/n) | MÁV number | First World War whereabouts | Post-war whereabouts | Later whereabouts | Scrapped |
 |:---|:---|:---|:---|:---|:---|
-| 3153 | 490.020 | 11/10/1914: kukHV (Krivajatalbahn); 20/04/1915: MÁV; 11/1915: kukHV (Zabrežje-Valjevo); 27/09/1916: MÁV; 29/11/1916: kukHV (Gyergyóvárhegy); 13/05/1918: Rozsahegy; 11/1918: kukHV (Bosanski Brod); 1918: Steinbeisbahn | 1918: SHS 490.020; 1933: JDŽ 81-005 | 1941: HDŽ; 1945: JDŽ | |
-| 3154 | 490.021 | 11/1915: kukHV (Zabrežje-Valjevo); 27/09/1916: MÁV | CFR 490.021 | | 29/08/1969 |
-| 3155 | 490.022 | 11/10/1914: kukHV (Krivajatalbahn); 22/04/1915: MÁV; 11/1915: kukHV (Zabrežje-Valjevo); 16/09/1916: MÁV; 21/10/1918: kukHV (Bosanski Brod) | 1918: SHS 490.022; 1933: JDŽ 81-006 | 1941: HDŽ; 1945: JDŽ | |
-| 3156 | 490.023 | 11/1915: kukHV (Zabrežje-Valjevo); 24/09/1916: MÁV; 22/11/1916: Steinbeisbahn 44; 06/08/1917: kukHV (Teresva); 12/09/1917: Gyergyóvárhegy; 08/10/1917: MÁV | CFR 490.023 | 09/1940: MÁV; 11/1944: SZD | 1957 |
-| 3157 | 490.024 | 11/11/1914: kukHV (Krivajatalbahn); 09/04/1915: MÁV; 1915: kukHV (Klausen); 08/02/1918: MÁV; 10/1918: kukHV | 1918: SHS 490.024; 1933: JDŽ 81-002 | 1941: HDŽ; 1945: JDŽ | |
-| 3158 | 490.025 | 06/11/1914: kukHV (Krivajatalbahn); 12/04/1915: MÁV; 11/1915: kukHV (Zabrežje-Valjevo); 16/09/1916: MÁV; 07/08/1917: kukHV (Teresva); 24/10/1917: Steinbeisbahn 50 | 1918: SHS | 1930s: PDI Ljubija | |
-| 3159 | 490.026 | 06/11/1914: kukHV (Krivajatalbahn); 12/04/1915: MÁV; 11/1915: kukHV (Zabrežje-Valjevo); 06/09/1916: MÁV | CFR 490.026 | | |
-| 3160 | 490.027 | 06/11/1914: kukHV (Krivajatalbahn); 12/04/1915: MÁV | CFR 490.027 | 1940: MÁV; 1944: CFR | 12/11/1970 |
-| 3161 | 490.028 | | CFR 490.028 | | |
-| 3162 | 490.029 | | MÁV | 1938: Gánt 1; 1945: Gánt JOZSEF | 20/02/1967 |
-| 3163 | 490.030 | 29/12/1915: kukHV (Zabrežje-Valjevo); 27/09/1916: MÁV | 1920: Lillafüred 6 | 1942: Taracköz K46.911; 1944: SZD 46.911; 1948: Teresva 7 | |
-| 3164 | 490.031 | 19/12/1914: kukHV (Krivajatalbahn); 09/04/1915: MÁV; 01/02/1916; kukHV (Klausen); 15/04/1917: Fleimstalbahn; 20/06/1917: Klausen; 14/02/1918: Steinbeisbahn 51 | 1918: SHS 490.031 | | 193. (?) |
+| 3153 | 490.020 | 11 October 1914: kukHV (Krivajatalbahn); 20 April 1915: MÁV; November 1915: kukHV (Zabrežje–Valjevo); 27 September 1916: MÁV; 29 November 1916: kukHV (Gyergyóvárhegy); 13 May 1918: Rózsahegy (Ružomberok); November 1918: kukHV (Bosanski Brod); 1918: Steinbeisbahn | 1918: SHS 490.020; 1933: JDŽ 81-005 | 1941: HDŽ; 1945: JDŽ | — |
+| 3154 | 490.021 | November 1915: kukHV (Zabrežje–Valjevo); 27 September 1916: MÁV | CFR 490.021 | — | 29 August 1969 |
+| 3155 | 490.022 | 11 October 1914: kukHV (Krivajatalbahn); 22 April 1915: MÁV; November 1915: kukHV (Zabrežje–Valjevo); 16 September 1916: MÁV; 21 October 1918: kukHV (Bosanski Brod) | 1918: SHS 490.022; 1933: JDŽ 81-006 | 1941: HDŽ; 1945: JDŽ | — |
+| 3156 | 490.023 | November 1915: kukHV (Zabrežje–Valjevo); 24 September 1916: MÁV; 22 November 1916: Steinbeisbahn 44; 6 August 1917: kukHV (Teresva); 12 September 1917: kukHV (Gyergyóvárhegy); 8 October 1917: MÁV | CFR 490.023 | September 1940: MÁV; November 1944: SZD | 1957 |
+| 3157 | 490.024 | 11 November 1914: kukHV (Krivajatalbahn); 9 April 1915: MÁV; 1915: kukHV (Klausen); 8 February 1918: MÁV; October 1918: kukHV | 1918: SHS 490.024; 1933: JDŽ 81-002 | 1941: HDŽ; 1945: JDŽ | — |
+| 3158 | 490.025 | 6 November 1914: kukHV (Krivajatalbahn); 12 April 1915: MÁV; November 1915: kukHV (Zabrežje–Valjevo); 16 September 1916: MÁV; 7 August 1917: kukHV (Teresva); 24 October 1917: Steinbeisbahn 50 | 1918: SHS | 1930s (inferred): PDI Ljubija | — |
+| 3159 | 490.026 | 6 November 1914: kukHV (Krivajatalbahn); 12 April 1915: MÁV; November 1915: kukHV (Zabrežje–Valjevo); 6 September 1916: MÁV | CFR 490.026 | — | — |
+| 3160 | 490.027 | 6 November 1914: kukHV (Krivajatalbahn); 12 April 1915: MÁV | CFR 490.027 | 1940: MÁV; 1944: CFR | 12 November 1970 |
+| 3161 | 490.028 | — | CFR 490.028 | — | — |
+| 3162 | 490.029 | — | MÁV | 1938: Gánt 1; 1945: Gánt József | 20 February 1967 |
+| 3163 | 490.030 | 29 December 1915: kukHV (Zabrežje–Valjevo); 27 September 1916: MÁV | 1920: Lillafüred 6 | 1942: Taracköz K46.911; 1944: SZD 46.911; 1948: Teresva 7 | — |
+| 3164 | 490.031 | 19 December 1914: kukHV (Krivajatalbahn); 9 April 1915: MÁV; 1 February 1916: kukHV (Klausen); 15 April 1917: Fleimstalbahn; 20 June 1917: Klausen; 14 February 1918: Steinbeisbahn 51 | 1918: SHS 490.031 | — | withdrawn, 1930s (?) |
 
----
+### Notes on the source
 
-#### Glosary:
+- Pospichal places the movements of 490.023 from Teresva to Gyergyóvárhegy, and of 490.031 from Klausen to the Fleimstalbahn and back to Klausen, within parentheses. They are treated here as separate dated movements.
+- The entry `´3.> PDI Ljubija` for 490.025 is interpreted as a move during the 1930s; the exact year is not given in the source.
+- The final disposal entry for 490.031, `a 193.`, is incomplete in the source and is therefore rendered as “1930s (?)”.
+- Pospichal writes `Gánt JOZSEF`; this is rendered here as **Gánt József**, presumably a locomotive or operator name, pending confirmation from a dedicated Gánt source.
+
+## Glossary
 
 | Term | Description |
 |:---|:---|
-| MÁV | Magyar Államvasutak — Hungarian State Railways |
-| SHS (Srbi, Hrvati i Slovenci) | Railways of the Kingdom of Serbs, Croats and Slovenes (1918/20–1929) |
-| JDŽ (Jugoslovenske državne železnice) | Yugoslav State Railways (1929–1941, and later 1945–1954) |
-| HDŽ (Hrvatske državne železnice) | Croatian State Railways; the railway administration of the Independent State of Croatia, 1941–45. |
-| CFR (Căile Ferate Române) | Romanian State Railways; in locomotive histories, it denotes transfer to, ownership by, or operation under the Romanian state railway |
-| SZD (Sovetskie zheleznye dorogi) | Soviet Railways; the state railway system of the USSR, 1922–91. |
-| Bp | Budapest — MÁVAG / Hungarian State Railways Machine Factory, Budapest |
-| kukHV | Heeresverwaltung — the Imperial and Royal Military Administration of Austria-Hungary |
-| Krivajatalbahn | the Krivaja Valley Railway, a 760 mm forest railway from Zavidovići through Olovo to Han Pijesak/Kusače in Bosnia, built under Austro-Hungarian rule for timber traffic and closed in 1970. |
-| Zabrežje–Valjevo | a 67.4 km, 760 mm narrow-gauge railway in Serbia, opened in 1908 and closed in 1969; it linked the Sava crossing at Zabrežje with Valjevo via Obrenovac and Lajkovac. |
-| Gyergyóvárhegy / (Romanian: Subcetate) | Transylvanian forestry and industrial railway centre on the Putnavölgyi (Romanian: Valea Putnei, English: Putna Valley) industrial railway; its 760 mm line to Reczefalva (Romanian: Recea) was opened by the Austro-Hungarian army on 21 November 1916. |
-| Rozsahegy | Hungarian name for Ružomberok, Slovakia; in Austro-Hungarian railway records it may refer to the town or its surrounding forestry-railway operations. |
-| Bosanski Brod (today Brod, Bosnia and Herzegovina) | Bosnian terminus on the Sava opposite Slavonski Brod; from 1879 the starting point of the 760 mm Bosnian railway to Zenica and, from 1882, Sarajevo. |
+| MÁV | *Magyar Államvasutak* — Hungarian State Railways. |
+| SHS | *Srbi, Hrvati i Slovenci* — Railways of the Kingdom of Serbs, Croats and Slovenes, 1918/20–1929. |
+| JDŽ | *Jugoslovenske državne železnice* — Yugoslav State Railways, 1929–1941 and again from 1945. |
+| HDŽ | *Hrvatske državne železnice* — Croatian State Railways, the railway administration of the Independent State of Croatia, 1941–45. |
+| CFR | *Căile Ferate Române* — Romanian State Railways; in locomotive histories, it denotes transfer to, ownership by, or operation under the Romanian state railway. |
+| SZD | *Sovetskie zheleznye dorogi* — Soviet Railways, the state railway system of the USSR, 1922–91. |
+| Bp | Budapest; MÁV Gépgyár (MÁV Machine Factory), later MÁVAG. |
+| kukHV | *Heeresverwaltung* — the Imperial and Royal Military Administration of Austria-Hungary. |
+| Krivajatalbahn | The Krivaja Valley Railway, a 760 mm forest railway from Zavidovići through Olovo to Han Pijesak/Kusače in Bosnia, built under Austro-Hungarian rule for timber traffic and closed in 1970. |
+| Zabrežje–Valjevo | A 67.4 km, 760 mm narrow-gauge railway in Serbia, opened in 1908 and closed in 1969; it linked the Sava crossing at Zabrežje with Valjevo via Obrenovac and Lajkovac. |
+| Gyergyóvárhegy | Hungarian name for Subcetate, Romania; a Transylvanian forestry and industrial railway centre on the Putna Valley (*Putnavölgyi* / *Valea Putnei*) industrial railway. Its 760 mm line to Reczefalva (Romanian: Recea) was opened by the Austro-Hungarian army on 21 November 1916. |
+| Rózsahegy | Hungarian name for Ružomberok, Slovakia; in Austro-Hungarian railway records it may refer to the town or its surrounding forestry-railway operations. |
+| Bosanski Brod | Today Brod, Bosnia and Herzegovina; a Bosnian terminus on the Sava opposite Slavonski Brod. From 1879 it was the starting point of the 760 mm Bosnian railway to Zenica and, from 1882, Sarajevo. |
 | Teresva | Hungarian name for Teresva (Ukrainian: Тересва), Zakarpattia, Ukraine; in First World War railway records it refers to the Tarac Valley local railway, which received loan locomotives from the Austro-Hungarian Military Railway (kukHB). |
 | Klausen | German name for Chiusa, South Tyrol, Italy. In First World War locomotive records, kukHV (Klausen) refers to the Austro-Hungarian military administration at Klausen and its 760 mm Klausen–Plan (Val Gardena) railway. |
-| Steinbeisbahn | Otto Steinbeis’s 760 mm forestry and public narrow-gauge railway system in north-west Bosnia, principally Prijedor–Srnetica–Drvar–Knin; operated for timber traffic and closed in 1975. |
+| Steinbeisbahn | Otto Steinbeis’s 760 mm forestry and public narrow-gauge railway system in north-west Bosnia, principally Prijedor–Srnetica–Drvar–Knin; it operated for timber traffic and closed in 1975. |
 | Fleimstalbahn | German name for the Val di Fiemme Railway, a 760 mm Austro-Hungarian military railway from Auer (Ora) to Predazzo in the Dolomites; later an Italian 1,000 mm electric railway, closed in 1963. |
-| PDI Ljubija | industrial railway serving the Ljubija iron-ore mines near Prijedor, Bosnia and Herzegovina; the abbreviation’s exact expansion requires confirmation from the source record. |
+| PDI Ljubija | Industrial railway serving the Ljubija iron-ore mines near Prijedor, Bosnia and Herzegovina; the abbreviation’s exact expansion requires confirmation from the source record. |
+| Lillafüred | The Lillafüredi Állami Erdei Vasút (Lillafüred State Forest Railway), a narrow-gauge railway near Miskolc, Hungary, opened in 1920. |
+| Gánt | A bauxite-mining and industrial railway location in Hungary; locomotive number 1 and later “Gánt József” refer to locomotives employed there. |
+| Taracköz | Locality in the Tarac Valley, Subcarpathia (now Zakarpattia, Ukraine); in the source, K46.911 denotes a locomotive allocation in the Tarac Valley railway area. |
+| Marostordai HÉV | *Maros-Torda Helyi Érdekű Vasút* — Maros-Torda Local Interest Railway, a 760 mm narrow-gauge network around Târgu Mureș, Transylvania; opened from 1915 and later operated by MÁV and CFR. |
 
-#### Bibliography
+## Bibliography
 
-[Lokstatistik -  Josef Pospichal; Marostordai hev](https://www.pospichal.net/lokstatistik/53812-marostordai%20hev.htm)
+- Josef Pospichal, [Lokstatistik: Marostordai HÉV](https://www.pospichal.net/lokstatistik/53812-marostordai%20hev.htm) — immediate source for the locomotive histories, works numbers, allocations and disposal entries.
+- Bernhard Schmeiser and Franz Kraus, manuscript records; and Attila Kirchner, database entry 53812 P240517 — underlying sources credited by Pospichal for the Marostordai HÉV locomotive data.
+- Sándor Malatinszky, “The Class 490 Steam Engines of MÁV, and the Restoration of Locomotive No. 490,039,” *Periodica Polytechnica Transportation Engineering* 39/1 (2011): 23–30, doi:10.3311/pp.tr.2011-1.05 — class history, technical specifications, wartime and post-Trianon distribution of MÁV type 70 / class 490 locomotives.

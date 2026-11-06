@@ -5,9 +5,9 @@ weight: 4
 ---
 
 
-* 1915 Băile Sovata - Târgu Mureș - Band (Szováta - Marosvásárhely - Mezőbánd), closed in 1999
-* 1915 Băile Sovata - Praid (Szováta - Parajd), closed in 1975
-* 1915 Band - Miheșu de Câmpie (Mezőbánd - Mezőméhes), closed in 1999
-* 1915 Band - Lechința (Mezőbánd - Szászlekence), closed in 1999
-* 1941 Iuda - Lechința, closed in 1999
+* Târgu Mureș - Băile Sovata (Marosvásárhely - Szováta), opened 1915, closed 1999
+* Băile Sovata - Praid (Szováta - Parajd), opened 1915, closed 1975
+* Târgu Mureș - Band - Miheșu de Câmpie (Marosvásárhely - Mezőbánd - Mezőméhes), opened 1915, closed 1999
+* Târgu Mureș - Band - Iuda (Marosvásárhely - Mezőbánd - Iuda), opened 1915, closed 1999
+* Iuda - Lechința (Iuda - Szászlekence), opened 1941, closed 1999
 
