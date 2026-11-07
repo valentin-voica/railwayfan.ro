@@ -53,14 +53,20 @@ Leaving Târgu Mureș at approximately 306 metres altitude, the line ran north o
 On the Niraj valley line, the railway became part of daily life: workers and students commuted to Târgu Mureș, villagers brought their produce to market, and townspeople rode out to Sovata for holidays and excursions. Timber, sugar beet and salt from the Praid mine all moved by rail.
 
 ![Narrow-gauge steam locomotive 764.159 of “Uzinele 23 August” climbing the Comlod bank, 13 October 1993](images/764.159-TgM-13.10.1993.jpg)
-
 *13 October 1993, "Uzinele 23 August" 764.159 climbing the Comlod bank*
 
 ![1938 Romanian State Railways map](images/Harta-CFR-1938.jpg)
+*Romanian State Railways map in 1938*
 
-*Romanian State Railways map in 1938* 
 
-***
+![The Târgu Mureș - Praid - Târgu Mureș (405) 1966 Time Table](images/timetable-1966-405.jpg) 
+*The Târgu Mureș - Praid - Târgu Mureș (405) 1966 Time Table*
+
+![The Târgu Mureș - Band - Miheșu de Câmpie and Târgu Mureș - Band - Lechința (406) 1966 Time Table](images/timetable-1966-406.webp) 
+*The Târgu Mureș - Band - Miheșu de Câmpie and Târgu Mureș - Band - Lechința (406) 1966 Time Table*
+
+![The Târgu Mureș - Băile Sovata - Târgu Mureș (407) Time Table](images/timetable-1989-407.jpg) 
+*The 1989 Târgu Mureș - Băile Sovata - Târgu Mureș (407) 1989 Time Table*
 
 ##### Bibliography & Sources
 
@@ -74,7 +80,7 @@ On the Niraj valley line, the railway became part of daily life: workers and stu
 * **Mocănița Sovata:** Route and locomotive history, [mocanitasovata.ro](https://mocanitasovata.ro "Mocănița Sovata").
 * **Wikipedia (Hungarian):** ["Marosvásárhely–Parajd-vasútvonal"](https://hu.wikipedia.org/wiki/Marosv%C3%A1s%C3%A1rhely%E2%80%93Parajd-vas%C3%BAtvonal "Marosvásárhely–Parajd-vasútvonal").
 * **Wikipedia (Romanian):** ["Calea ferată îngustă Târgu Mureș–Praid"](https://ro.wikipedia.org/wiki/Calea_ferat%C4%83_%C3%AEngust%C4%83_T%C3%A2rgu_Mure%C8%99%E2%80%93Praid "Calea ferată îngustă Târgu Mureș–Praid").
-* **Trenuletz Forum:** "408 : Târgu Mureș – Băile Sovata (linie îngustă)," [Forumul pasionaților de trenuri din România](https://trenuletz.forumgratuit.ro/t809-408-targu-mures-baile-sovata-linie-ingusta "Trenuletz Forum Line 408 Thread").
+* [**Forumul pasionaților de trenuri din România**](https://trenuletz.forumgratuit.ro/t809-408-targu-mures-baile-sovata-linie-ingusta "Trenuletz Forum Line 408 Thread").
 
 **Notes on Sources and Figures:**
 * Published figures for total network length vary; the commonly cited components (~82 km + ~81 km + 28 km) total approximately 191 km, while one account gives 186 km for the pre-1941 network.
