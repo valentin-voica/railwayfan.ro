@@ -38,9 +38,18 @@ The wagon has been converted to fine-scale standards in two areas:
 
 * The couplings were replaced with SMK (Schiffer-Magnetfeld-Kupplung) magnetic couplings for N gauge.
 
+![fiNe-Scale Conversion](images/881224-converted-1.jpg)
+
+![fiNe-Scale Conversion](images/881224-converted-2.jpg)
+
+![fiNe-Scale Conversion](images/881224-converted-3.jpg)
+
 ## Build notes
 
 The original four wheelsets were removed and replaced with fine-scale wagon wheelsets. The wheelsets were re-gauged from the ["2 mm Scale Association" standard](https://2mm.org.uk/2FS_Manual/Standards_Combined.pdf#page=2) (minimum back-to-back of 8.51 mm) to the [fiNe-scale standard](https://www.fs160.eu/fiNeweb/standards/HANDB.php) of 8.2 mm, with a minimum of 8.1 mm. A digital caliper was used to set the back-to-back distance.
 
 The original Fleischmann KK (Kurzkupplung, close coupling) couplers fitted on the original model were removed and replaced with SMK magnetic couplings. Each SMK hook was installed in a 0.8 mm hole drilled in the centre of the buffer beam and secured in place with CA glue.
+
+![Wheel-Set Comparison](images/wheel-set-comparison.jpg)
+*Comparison between wheels-sets*
 
