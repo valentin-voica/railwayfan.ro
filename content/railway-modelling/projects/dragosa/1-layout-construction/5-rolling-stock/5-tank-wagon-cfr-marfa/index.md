@@ -1,10 +1,10 @@
 ---
-title: 'Tank Wagon, "CFR Marfa"'
-description: "Fleischmann N scale Zas 4-axle tank wagon in grey CFR Marfa livery, Epoch VI, with fine-scale wheelsets and magnetic couplings on the Dragosa layout."
+title: 'Tank Wagon, "CFR Marfă"'
+description: "Fleischmann N scale Zas 4-axle tank wagon in grey CFR Marfă livery, Epoch VI, with fine-scale wheelsets and magnetic couplings on the Dragosa layout."
 weight: 5
 ---
 
-This Fleischmann N scale model of a grey Zas type four-axle tank wagon represents a "CFR Marfa" vehicle from Epoch VI. It runs on the Dragosa layout with new fine-scale wheelsets and magnetic couplings.
+This Fleischmann N scale model of a grey Zas type four-axle tank wagon represents a "CFR Marfă" vehicle from Epoch VI. It runs on the Dragosa layout with new fine-scale wheelsets and magnetic couplings.
 
 ![Fleischmann  881224](images/881224.jpg)
 *Fleischmann N scale catalogue illustration*
@@ -19,30 +19,36 @@ This Fleischmann N scale model of a grey Zas type four-axle tank wagon represent
 | EAN | 4005575257251 |
 | Length over buffers | 88 mm |
 
+A [short review](cm-2022-01-review.pdf) of this model, in a different livery, appeared in the January 2022 issue of Continental Modeller.
+
 ## Prototype
 
 | Item | Detail |
 |---|---|
 | Type | Zas tank wagon, four axles |
 | Epoch | VI |
-| Railway company | CFR Marfa |
+| Railway company | CFR Marfă |
 | Operating number | 31 53 7965 889-3 RO-CFR |
 
-The prototype is a four-axle Zas tank wagon, a type originally designated Uahs and built from 1972. It was reclassified as a Zas from 1980 and has a nominal capacity of 880 hl (88 m³). These wagons were widely used for transporting light petroleum products and were commonly operated by wagon-hire companies across European railway administrations. This example carries CFR Marfă livery; CFR Marfă is Romania’s state freight railway operator, which was separated from the former Căile Ferate Române freight division in 1998.
+The prototype is a four-axle tank wagon of the type Uahs, known as the Zas from 1980. It was built from 1972 and, according to Fleischmann, has a load capacity of 880 hl (88 m³). Wagon-hire companies offered these wagons to many railway administrations as private wagons. They carried light petroleum products, mainly in block trains from sea ports to inland locations, and also in wagon-load traffic to the unloading facilities of mineral-oil traders.
+
+This example carries CFR Marfă livery. CFR Marfă is Romania’s state-owned freight railway operator; it was formerly the freight division of Căile Ferate Române (CFR) and was separated in 1998 to become a semi-independent business. [Wikipedia](https://en.wikipedia.org/wiki/CFR_Marf%C4%83)
+
+Further details on the type are available from [VTG](https://www.vtg.com/solutions/fleet/mineraloel-kesselwagen-hell/mineral-oil-rail-tank-car_zas_m16086c).
 
 ## "fiNe-scale" Conversion
 
 The wagon has been converted to fine-scale standards in two areas:
 
-* The original wheels were replaced with 2 mm Fine Scale Association wagon wheels, which have plain discs, a diameter of 6 mm and a 15.20 mm axle (part number 2-0089).
+* The original wheels were replaced with re-gauged 2 mm Fine Scale Association wagon wheels, which have plain discs, a diameter of 6 mm and a 15.20 mm axle (part number 2-0089).
 
 * The couplings were replaced with SMK (Schiffer-Magnetfeld-Kupplung) magnetic couplings for N gauge.
 
-![fiNe-Scale Conversion](images/881224-converted-1.jpg)
+![General view of the converted model](images/881224-converted-2.jpg)
+*General view of the converted model*
 
-![fiNe-Scale Conversion](images/881224-converted-2.jpg)
-
-![fiNe-Scale Conversion](images/881224-converted-3.jpg)
+![SMK magnetic coupling fitted to the buffer beam](images/881224-converted-3.jpg)
+*SMK magnetic coupling fitted to the buffer beam*
 
 ## Build notes
 
